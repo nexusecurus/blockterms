@@ -513,6 +513,9 @@ A consensus algorithm used in blockchains like Chia, where users allocate storag
 ### POW (Proof of Work)
 A consensus algorithm used in blockchains to validate transactions and secure the network by requiring participants (miners) to solve complex mathematical problems.
 
+### Plotting
+Plotting is the process of creating cryptographic files, called "plots," on storage devices. These plots are used in the proof-of-space consensus mechanism to participate in farming, where farmers compete for rewards based on available disk space. The more plots a farmer has, the higher their chances of winning rewards. Plotting is resource-intensive and involves generating large files that are stored and queried for matching challenges on the network.
+
 ### Private Blockchain
 A blockchain that restricts access to selected participants, often used by businesses or organizations for internal operations. Private blockchains offer enhanced security and efficiency but are less decentralized.
 
