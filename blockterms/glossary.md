@@ -164,6 +164,9 @@ Depegging refers to the process where an asset or cryptocurrency loses its peg t
 ### DePIN (Decentralized Physical Infrastructure Networks)
 Refers to blockchain-powered networks that leverage decentralized participation to build and operate real-world infrastructure, such as wireless networks, computing power, storage, or energy grids. Participants contribute resources and are rewarded through token incentives, ensuring a more open and community-driven infrastructure development.
 
+### DEX (Decentralized Exchange)
+A DEX (or decentralized exchange) is a peer-to-peer marketplace where transactions occur directly between crypto traders. DEXs fulfill one of crypto's core possibilities: fostering financial transactions that aren't officiated by banks, brokers, or any other intermediary.
+
 ### Derivation Path
 A method used to derive private keys from a seed phrase in hierarchical deterministic (HD) wallets. It ensures that users can regenerate keys in the same sequence across different devices.
 
@@ -221,6 +224,9 @@ A decentralized computing environment that executes smart contracts on the Ether
 A platform that allows users to buy, sell, and trade cryptocurrencies. Exchanges can be centralized (CEX) or decentralized (DEX), depending on whether they rely on intermediaries or operate on smart contracts.
 
 ## F
+
+### Farming
+In blockchain, farming (also known as yield farming) is a process where users stake or lend their cryptocurrencies to earn rewards. It is commonly used in decentralized finance (DeFi) platforms, where participants provide liquidity to earn interest, fees, or governance tokens.
 
 ### Faucet
 A service that distributes small amounts of cryptocurrency for free, often used to introduce users to a blockchain network or allow developers to test applications on testnets.
@@ -600,6 +606,9 @@ A backward-compatible upgrade to a blockchain protocol that introduces new rules
 
 ### Solidity  
 A programming language designed specifically for writing smart contracts on Ethereum and other EVM-compatible blockchains.
+
+### Solana
+Solana is a high-performance blockchain designed for scalability, speed, and low transaction costs. It is known for its ability to handle thousands of transactions per second (TPS) while maintaining decentralization and security. Solana's native cryptocurrency is SOL, which is used for transaction fees and staking.
 
 ### Stable Coin  
 A type of cryptocurrency designed to maintain a stable value by being pegged to an asset like fiat currency or commodities (e.g., USDT, USDC).
