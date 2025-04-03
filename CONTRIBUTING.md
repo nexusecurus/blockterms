@@ -1,6 +1,6 @@
-# Contributing to the NexuSecurus BlockTerms
+# Contributing to the NexuSecurus BlockXicon
 
-We welcome contributions to expand the **NexuSecurus BlockTerms**. If you’d like to add a new term or make changes to an existing one, please follow these detailed guidelines.
+We welcome contributions to expand the **NexuSecurus BlockXicon**. If you’d like to add a new term or make changes to an existing one, please follow these detailed guidelines.
 
 ## How to Contribute
 
@@ -15,8 +15,8 @@ This creates a copy of the repository under your account where you can make chan
 Once you've forked the repository, clone it to your local machine to make your changes:
 
 ```bash
-git clone https://github.com/your-username/blockterms.git
-cd blockterms
+git clone https://github.com/your-username/blockxicon.git
+cd blockxicon
 ```
 
 Replace `your-username` with your GitHub username.
@@ -49,7 +49,7 @@ Use proper spelling, grammar, and punctuation to ensure the definition is profes
 Once you've added the new term or updated the glossary, commit your changes:
 
 ```bash
-git add blockterms/glossary.md
+git add blockxicon/glossary.md
 git commit -m "Added new term: YourTerm"
 ```
 
@@ -84,7 +84,7 @@ Click the **Fork** button in the top-right corner of the repository page. This c
 
 ### **2. Navigate to the `glossary.md` File**
 
-Go to your forked repository on GitHub and navigate to `blockterms/glossary.md`. Click the pencil icon (edit) to begin making changes.
+Go to your forked repository on GitHub and navigate to `blockxicon/glossary.md`. Click the pencil icon (edit) to begin making changes.
 
 ### **3. Edit the File**
 
@@ -170,4 +170,4 @@ By contributing to this project, you agree to adhere to the **NexuSecurus Code o
 
 ## Thank You!
 
-We are excited to have you contribute to the **NexuSecurus BlockTerms**! Together, we can build the largest and most comprehensive glossary for blockchain and crypto on the internet.
+We are excited to have you contribute to the **NexuSecurus BlockXicon**! Together, we can build the largest and most comprehensive glossary for blockchain and crypto on the internet.
